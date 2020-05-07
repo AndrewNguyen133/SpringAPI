@@ -1,4 +1,4 @@
-Topics to Get better at:
+Topics to Get Better At:
 - Maven - Run configurations like spring-boot:run
 - Managing environments
 - Spring concepts
@@ -8,3 +8,5 @@ Topics to Get better at:
 - Managing secrets with AWS Secrets Manager
 - Software architecture/ design patterns
 - Best coding practices
+- Organizing my Postman stuff
+
