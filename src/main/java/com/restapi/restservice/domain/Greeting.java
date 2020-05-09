@@ -1,4 +1,4 @@
-package com.restapi.restservice.Domain;
+package com.restapi.restservice.domain;
 
 import lombok.Data;
 
